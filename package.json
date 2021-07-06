@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "del": "^5.1.0",
+    "write-file-atomic": "^3.0.3",
     "execa": "^3.4.0",
-    "write-file-atomic": "^3.0.1",
     "yargs": "^14.2.3"
   },
   "devDependencies": {
